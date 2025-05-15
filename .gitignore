@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.kaggle/
+kaggle.json
+massive-missile-attacks-on-ukraine.zip
